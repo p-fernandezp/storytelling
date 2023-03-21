@@ -4,6 +4,7 @@
 
 Nombre del Equipo: Grupo 4
 
+Enlace al proyecto original [Storytelling] (https://stackedit.io/) 
 Proyecto (código): Lolalolita
 
 Tipo/Género:  
